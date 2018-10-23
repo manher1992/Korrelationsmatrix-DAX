@@ -1,5 +1,8 @@
-# Korrelationsmatrix-DAX
+# Heatmap-DAX
  
-1. Aktuelle und Historische DAX - Entwicklung auf ein DataFrame exportieren
+1. Export Stock Data to a Dataframe
 
-2. DAX - Korrelationsmatrix (HeatMap)
+2. DAX - HeatMap
+
+
+Coding just for fun.
